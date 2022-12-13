@@ -4,3 +4,7 @@ Jupyter Notebook with R to make prediction if someone could have lung cancer or 
 ## Techniques:
 1) Lasso/Ridge regression
 2) Naive Bayes
+
+## Viewing Options:
+1) PDF for viewing project
+2) download html file and view in browser (preferred)
